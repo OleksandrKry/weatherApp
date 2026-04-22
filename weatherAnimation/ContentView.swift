@@ -69,7 +69,7 @@ struct WeatherAnimationView: View {
         ZStack {
             SkyLayer(condition: condition)
             WeatherEffectLayer(condition: condition)
-            CharacterLayer(condition: condition)
+            //CharacterLayer(condition: condition)
             
         }
         .animation(.easeInOut(duration: 0.5), value: condition)
