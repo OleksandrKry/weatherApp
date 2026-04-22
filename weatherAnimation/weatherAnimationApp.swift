@@ -2,7 +2,7 @@
 //  weatherAnimationApp.swift
 //  weatherAnimation
 //
-//  Created by Alex on 20/04/26.
+//  Created by Alex & Diora on 20/04/26.
 //
 
 import SwiftUI
